@@ -1,0 +1,9 @@
+*.crt
+*.cert
+*.key
+tempfile.json
+.DS_Store
+.idea
+.terraform*
+terraform.tfstate*
+go.work*
